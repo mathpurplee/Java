@@ -1,4 +1,4 @@
-package instance_static;
+package ex2;
 
 public class Car {
 	/* 인스턴스 */

@@ -1,4 +1,4 @@
-package instance_static;
+package ex2;
 
 public class CarExample {
 	public static void main(String args[]) {
